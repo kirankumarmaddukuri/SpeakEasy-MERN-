@@ -1,4 +1,4 @@
-# 🌍 LinguaLearn - Interactive Language Learning Platform
+# 🌍 SpeakEasy - Interactive Language Learning Platform
 
 A modern, full-stack MERN application for learning multiple languages through interactive lessons, daily challenges, flashcards, and storytelling.
 
@@ -77,7 +77,7 @@ A modern, full-stack MERN application for learning multiple languages through in
 ## 📁 Project Structure
 
 ```
-MERN/
+SpeakEasy/
 ├── frontend/                 # React frontend application
 │   ├── components/          # React components
 │   │   ├── Dashboard.jsx
@@ -135,8 +135,8 @@ MERN/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lingualearn.git
-   cd lingualearn
+   git clone https://github.com/kirankumarmaddukuri/SpeakEasy-MERN-.git
+   cd SpeakEasy-MERN-
    ```
 
 2. **Install backend dependencies**
@@ -155,9 +155,9 @@ MERN/
    
    Create a `.env` file in the `server` directory:
    ```env
-   MONGODB_URI=mongodb://localhost:27017/lingualearn
+   MONGODB_URI=mongodb://localhost:27017/speakeasy
    # Or for MongoDB Atlas:
-   # MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/lingualearn
+   # MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/speakeasy
    
    JWT_SECRET=your_super_secret_jwt_key_here
    PORT=5000
@@ -194,7 +194,7 @@ MERN/
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `MONGODB_URI` | MongoDB connection string | `mongodb://localhost:27017/lingualearn` |
+| `MONGODB_URI` | MongoDB connection string | `mongodb://localhost:27017/speakeasy` |
 | `JWT_SECRET` | Secret key for JWT tokens | `your_secret_key_here` |
 | `PORT` | Port for backend server | `5000` |
 
