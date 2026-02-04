@@ -19,9 +19,7 @@ A modern, full-stack MERN application for learning multiple languages through in
 - [Environment Variables](#-environment-variables)
 - [API Documentation](#-api-documentation)
 - [Database Schema](#-database-schema)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
@@ -250,7 +248,7 @@ http://localhost:5000/api
 | GET | `/users/stats` | Get user statistics | ✅ |
 | POST | `/users/achievements` | Unlock achievement | ✅ |
 
-**📄 For detailed API documentation with request/response examples, see [API_DOCS.md](./API_DOCS.md)**
+
 
 ---
 
