@@ -344,7 +344,7 @@ Header: Authorization: Bearer {token}
 
 <div align="center">
   
-**Made with ❤️ by Kiran Kumar**
+
 
 **⭐ Star this repo if you found it helpful!**
 
