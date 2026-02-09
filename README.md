@@ -2,6 +2,14 @@
 
 A modern, full-stack MERN application for learning multiple languages through interactive lessons, daily challenges, flashcards, and storytelling.
 
+## 🚀 Live Demo
+
+**[✨ Try SpeakEasy Now](https://speakeasy-frontend-qfk1.onrender.com/)** - Deployed on Render
+
+> **Note:** The app may take 30-60 seconds to load on first visit as the free tier spins down after inactivity.
+
+---
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
